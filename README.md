@@ -19,10 +19,4 @@ I'm a CS student at the University of Waterloo passionate about cybersecurity, s
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-### 📈 GitHub Stats  
-![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasDarwin&show_icons=true&theme=tokyonight)
-
----
-
-> “Building, breaking, and securing systems — one bug at a time.”
+you can find me at [nicholasdarwin.ca](https://nicholasdarwin.ca) or on [linkedin](https://linkedin.com/in/nicholas-darwin).
