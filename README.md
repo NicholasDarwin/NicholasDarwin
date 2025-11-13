@@ -1,14 +1,14 @@
-## Hey, I'm Nicholas 👋  
+# Hey, I'm Nicholas 👋
 
-I'm a CS student at the University of Waterloo passionate about cybersecurity, systems, and building tools that make the web safer.  
+I'm a CS student at the University of Waterloo passionate about cybersecurity, systems, and building tools that make the web safer.
 
 🔭 **Currently exploring:** network security, reverse engineering, and system design  
 🌐 **Portfolio:** [nicholasdarwin.ca](https://nicholasdarwin.ca)  
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/nicholas-darwin) • [Instagram](https://instagram.com/nicholasdarw)  
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/nicholas-darwin) • [Instagram](https://instagram.com/nicholasdarw)
 
 ---
 
-### 🔧 Technologies & Tools  
+### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -19,4 +19,5 @@ I'm a CS student at the University of Waterloo passionate about cybersecurity, s
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-you can find me at [nicholasdarwin.ca](https://nicholasdarwin.ca) or on [linkedin](https://linkedin.com/in/nicholas-darwin).
+
+💬 Always open to new ideas, collaborations, or just a good tech chat — **feel free to reach out anytime!**
