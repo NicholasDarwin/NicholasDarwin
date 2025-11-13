@@ -20,4 +20,5 @@ I'm a CS student at the University of Waterloo passionate about cybersecurity, s
 
 ---
 
-💬 Always open to new ideas, collaborations, or just a good tech chat — **feel free to reach out anytime!**
+💬 Always open to new ideas, collaborations, or a chat.
+**feel free to reach out anytime!**
